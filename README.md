@@ -1,5 +1,4 @@
 # friendly-meme
 
- 
-this repo will host a meme.
+This repo will generate a meme.
 
